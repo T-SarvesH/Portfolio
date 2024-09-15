@@ -1,0 +1,40 @@
+body{
+
+    background-color: rgb(238, 238, 238);
+}
+
+.nav{
+
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:right;
+}
+
+.navbar{
+
+    background-color: rgb(240, 240, 240);
+    border: 1px solid white;
+    height: 100%;
+    border-radius: 5px;
+    
+} 
+
+.nav li{
+
+    font-size: 22px; 
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    margin-right: 5rem;
+    color: #494507;
+    
+}
+
+.nav li a{
+
+    text-decoration: none;
+}
+
+.nav .Home{
+
+    font-weight: bold;
+}

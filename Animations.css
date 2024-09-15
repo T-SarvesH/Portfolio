@@ -1,0 +1,16 @@
+/* .derimain{
+
+    animation: scroll 10s linear;
+    
+}
+
+@keyframes scroll {
+    
+    from{
+
+        transform: translateY(0%);
+    }
+    to{
+        transform: translateY(-100%);
+    }
+} */

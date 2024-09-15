@@ -1,0 +1,139 @@
+*{
+    text-decoration: none;
+}
+
+body{
+
+    background-color: rgb(238, 238, 238);
+}
+
+
+
+.nav{
+
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content:right;
+}
+
+.navbar{
+
+    background-color: rgb(240, 240, 240);
+    border: 1px solid white;
+    height: 100%;
+    border-radius: 5px;
+    
+} 
+
+.nav li{
+
+    font-size: 22px; 
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    margin-right: 5rem;
+    color: #494507;
+    
+}
+
+.nav li a{
+
+    text-decoration: none;
+}
+
+.nav .Home{
+
+    font-weight: bold;
+}
+
+.main{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.derimain{
+
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    padding-left: 11px;
+    overflow: hidden;
+}
+
+.derimain p{
+
+    font-family: "Playfair Display", serif;
+}
+
+.main img{
+
+
+    max-width: 50%;
+    height: auto;
+    /* box-shadow: ; */
+    border-radius: 50%;
+}
+
+.Intro{
+
+    font-size: 38px;
+}
+#BoDy{
+
+    width: 70%;
+}
+
+.Buto button{
+
+    width: 18%;
+    height: 30px;
+    color: #4a3e32;
+    border: 1px solid black;
+    border-radius: 1px;
+    margin-top: 32px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.Buto button:hover{
+
+    background-color: white;
+}
+
+
+
+.Links{
+
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.Home a{
+
+    color: #494507;
+    text-decoration: none;
+}
+
+
+.Logo{
+
+    color: #c5c071;
+    padding-right: 176px; 
+    /* border: 1px solid black; */
+    
+}
+
+.Logo text{
+
+    font-size: 24px;
+    font-family: "Grey Qo", cursive;
+}
+
+
+
+
+
